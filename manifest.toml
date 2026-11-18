@@ -9,7 +9,7 @@ description.fr = "Service de stockage cloud auto-hébergé, sécurisé et léger
 
 version = "0.10.0~ynh1"
 
-maintainers = [""]
+maintainers = ["eric_G"]
 
 [upstream]
 license = "MIT"
